@@ -1,0 +1,20 @@
+{
+    "Name": "Plitt & Giocomo (2021) Experience Dependent Contextual Codes in the Hippocampus. Nat Neuro",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Data included in Plitt & Giocomo (2021) Nature Neuroscience\n\nData includes temporally aligned virtual reality linear track data for head fixed mice and two photon calcium imaging of hippocampal region CA1.\nAnimals were trained to run in different virtual reality tracks that could be convincingly morphed into each other. One group of mice, \"Rare morph\" animals (labeled 'RX' in dataset), were largely only shown tracks at the extremes of this morph axis prior to imaging sessions. A second group of mice, \"Frequent morph\" animals (labeled 'FX' in dataset), were shown all of the tracks in equal probability. \n\n",
+    "DatasetType": "raw",
+    "Authors": [
+        "Plitt, Mark",
+        "Giocomo, Lisa M."
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
